@@ -56,7 +56,9 @@ python run_bot.py
 ```bash
 python3 -c "import telegram, pandas, openpyxl; print('✅ All imports successful')"
 ```
-
+⚠️ Attention:
+This bot uses `python-telegram-bot >= 20.0`.
+If you're using older versions like 13.x, this code **will not work** without major changes. Please upgrade.
 ---
 
 **Created with ❤️ by Mohsen Banihashemi**
