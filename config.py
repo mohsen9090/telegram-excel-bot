@@ -6,7 +6,7 @@
 """
 
 # توکن ربات تلگرام - توکن خود را اینجا وارد کنید
-TOKEN = "6677631238:AAFFdIDAUrR9FJEJsXjTYoTZQJ-VAUuDYYw"
+TOKEN = "توکن تلگرام"
 
 # نام فایل های سیستم
 EXCEL_FILE = "data.xlsx"
